@@ -214,7 +214,7 @@
                     "helperAttributes": {},
                     "time": 1424969294076,
                     "name": "Folder | Delete Video",
-                    "description": "Delete a Video from a Folder",
+                    "description": "Delete a Video from a folder",
                     "collectionId": "6e84aa55-8ced-8ab2-6b41-021606f64247",
                     "responses": []
                 },
