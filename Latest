@@ -125,7 +125,7 @@
                     "helperAttributes": {},
                     "time": 1422567545404,
                     "name": "Client ID | Update",
-                    "description": "Update Client ID's roles by given Client ID",
+                    "description": "Update client ID's roles by given Client ID",
                     "collectionId": "3f6a7836-7ca6-1466-ca1f-58ee81dfe049"
                 },
                 {
